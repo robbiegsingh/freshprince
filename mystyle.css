@@ -1,0 +1,17 @@
+h1 {
+	color: red;
+	font-family: arial;
+}
+
+body {
+	background-color: lightgrey;
+}
+
+p {
+	text-align: center;
+	font-family: verdana;
+}
+
+.olcontent {
+	text-align: center;
+}
